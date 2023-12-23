@@ -1,0 +1,4 @@
+英語名,日本語名,型,サイズ,デフォルト,備考
+id,ID,int,-,-,PRIMARY KEY
+name,イベント名,varchar(100),100,-,NOT NULL
+created_date,作成日,datetime,-,current_timestamp,

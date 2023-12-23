@@ -1,0 +1,5 @@
+英語名,日本語名,型,サイズ,デフォルト,備考
+id,ID,int,-,AUTO_INCREMENT,
+event_id,イベントID,int,-,,NOT NULL
+user_id,ユーザID,int,-,,NOT NULL
+created_date,イベント実施時,datetime,-,current_timestamp,
