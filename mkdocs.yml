@@ -11,3 +11,7 @@ markdown_extensions:
 plugins:
   - search
   - table-reader
+  - awesome-pages
+
+collapse: false
+hide: false

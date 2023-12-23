@@ -1,0 +1,9 @@
+英語名,日本語名,型,サイズ,デフォルト,備考
+id,ID,int,-,AUTO_INCREMENT,
+name,名称,varchar(50),50,,
+description,説明,varchar(100),100,,
+phone,電話番号,varchar(20),20,,
+postcode,郵便番号,varchar(7),7,,
+created_date,作成日,datetime,,current_timestamp,
+updated_date,更新日,datetime,,current_timestamp," on update current_timestamp"
+comment,コメント,varchar(100),100,,
