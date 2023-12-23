@@ -1,0 +1,6 @@
+英語名,日本語名,型,サイズ,備考
+id,ID,int,-,AUTO_INCREMENT
+name,名称,varchar(50),50,
+description,説明,varchar(100),100,
+phone,電話番号,varchar(20),20,
+postcode,郵便番号,varchar(7),7,

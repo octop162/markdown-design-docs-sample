@@ -1,0 +1,16 @@
+site_name: SuperDocs
+theme:
+  name: material
+markdown_extensions:
+  - tables
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+plugins:
+  - search
+  - table-reader
+
+extra_javascript:
+  - javascripts/extra.js
