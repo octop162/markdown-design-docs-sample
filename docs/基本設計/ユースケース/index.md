@@ -6,4 +6,4 @@ title: ユースケース
 
 ユースケース図をdrawio.svg形式で記載する。
 
-![](../images/usecase.drawio.svg)
+![](./images/usecase.drawio.svg)
